@@ -4,7 +4,7 @@
 Dump内存都需要管理员权限
 
 ## Description 
-用于Dump指定进程的内存,主要利用静默退出机制(SilentProcessExit)和Windows API(MiniDumpW)实现
+基于Golang开发,用于Dump指定进程的内存,主要利用静默退出机制(SilentProcessExit)和Windows API(MiniDumpW)实现
 
 ## Usage
 ```
