@@ -15,7 +15,7 @@ gohashdumper.exe -method 2 -path C:\tmp -pid 2333
   -out string
         dump file name (default "lsass.dmp")
   -path string
-        only method 2 need a filepath (default "D:\\RedTeam\\GoHashDumper")
+        only method 2 need a filepath 
   -pid string
         If not use process name,it can support pid
   -process string
