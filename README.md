@@ -23,4 +23,4 @@ gohashdumper.exe -method 2 -path C:\tmp -pid 2333
  ```
  
  ## Example
- ![](https://md.byr.ac.cn/uploads/upload_5b10a8ab6245d3bb5cf7a261fb34a5b0.png)
+ ![](https://github.com/crisprss/goHashDumper/blob/main/image.png)
